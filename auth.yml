@@ -1,0 +1,2 @@
+jwt:
+  secretKey: "kimgyun_jwt_secret"
